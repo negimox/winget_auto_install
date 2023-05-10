@@ -1,2 +1,2 @@
-# winget_auto_install
+# winget auto installation
 Script is on the verge of breaking.
